@@ -1,0 +1,7 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "*.json": "platformio-debug.asm",
+        "*.tpp": "cpp"
+    }
+}
